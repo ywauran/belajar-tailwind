@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hello {
+    @apply ml-10 mt-10 bg-sky-500 pt-10 pb-10 pl-10 text-white rounded-tl-xl rounded-br-xl
+}
